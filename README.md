@@ -7,6 +7,7 @@
 - PHP
 - BOOTSTRAP 4.6.1
 - HTML
+- CSS
 - MYSQL
 - JAVASCRIPT
 
